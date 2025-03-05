@@ -4,7 +4,8 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      "https://i.imgflip.com/7jmwjs.jpg",
+      "https://www.boredpanda.com/blog/wp-content/uploads/2024/09/55-66e8124e1168e__700.jpg"
     ]
 kind: ConfigMap
 metadata:
